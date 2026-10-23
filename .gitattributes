@@ -1,0 +1,4 @@
+*.pbix*.csv filter=lfs diff=lfs merge=lfs -text
+Airbnb[[:space:]]Dashboard.pbix filter=lfs diff=lfs merge=lfs -text
+dataset/Listings.csv filter=lfs diff=lfs merge=lfs -text
+dataset/Reviews.csv filter=lfs diff=lfs merge=lfs -text
